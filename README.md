@@ -42,9 +42,14 @@ This project demonstrates how to deploy a static HTML website on **Amazon S3**, 
 
 ## 📸 Screenshots
 
-_(You can add a folder `/screenshots` with images of your S3 bucket, CloudFront config, and the final live website. Then update this section with markdown image tags.)_
+### 🪣 S3 Static Website Hosting
+![S3 Static Hosting](screenshots/s3-static-hosting.png)
 
-```markdown
-![S3 Bucket Setup](screenshots/s3-setup.png)
-![CloudFront Distribution](screenshots/cloudfront-config.png)
-![Final Live Website](screenshots/final-site.png)
+### 🔐 Bucket Policy
+![Bucket Policy](screenshots/bucket-policy.png)
+
+### 🌐 CloudFront Distribution
+![CloudFront Setup](screenshots/cloudfront-setup.png)
+
+### 💻 Final Live Website
+![Live Website](screenshots/live-site.png)
